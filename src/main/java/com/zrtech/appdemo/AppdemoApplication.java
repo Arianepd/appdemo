@@ -8,7 +8,7 @@ public class AppdemoApplication {
 
 	public static void main(String[] args) {
 
-		git SpringApplication.run(AppdemoApplication.class, args);
+		SpringApplication.run(AppdemoApplication.class, args);
 	}
 
 }
